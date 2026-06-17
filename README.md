@@ -6,7 +6,6 @@
  - :books: Atualmente estou finalizando minha formação em Análise e
    Desenvolvimento de Sistemas. Minha preferência é por desenvolvimento
    Back-End.
- - :pencil: Tenho bastante interesse em desenvolvimento C#, linguagem que foco em meus estudos e projetos.
  - :house: Atualmente moro no interior do estado de São Paulo.
 
 ## Contatos
@@ -30,7 +29,6 @@
  - :smile: Pronoums: He/Him.
  - :books: I am currently finishing my degree in Systems Analysis and
 Development. My preference is for Back-End development.
- - :pencil: I'm very interested in C# development, witch I focus in my studies and projects
  - :house: Currently I'm living in the interior of the state São Paulo.
 
 
